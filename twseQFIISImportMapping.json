@@ -1,0 +1,10 @@
+[
+{
+"Columns":["證券代號","證券名稱","國際證券編碼","發行股數","外資及陸資尚可投資股數","全體外資及陸資持有股數","外資及陸資尚可投資比率","全體外資及陸資持股比率","外資及陸資共用法令投資上限比率","陸資法令投資上限比率","與前日異動原因(註)","最近一次上市公司申報外資及陸資持股異動日期"],
+"Fields":["stock","stockName","intlCode","shares","remain","onhand","remainRatio","onhandRatio","legalRatioAll","legalRatioChina","chgReason","lastupdate"]
+},
+{
+"Columns":["證券代號","證券名稱","國際證券編碼","發行股數","外資及陸資尚可投資股數","全體外資及陸資持有股數","外資及陸資尚可投資比率","全體外資及陸資持股比率","法令投資上限比率","與前日異動原因(註)","最近一次上市公司申報外資及陸資持股異動日期"],
+"Fields":["stock","stockName","intlCode","shares","remain","onhand","remainRatio","onhandRatio","legalRatioAll","chgReason","lastupdate"]
+}
+]
